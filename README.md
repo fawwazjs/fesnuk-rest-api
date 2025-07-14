@@ -660,7 +660,7 @@ Semua respons dari Fesnuk API akan mengikuti format JSON yang konsisten untuk me
 * data: Dapat berupa objek JSON tunggal (untuk detail satu entitas), array JSON (untuk daftar entitas), atau null. Bagian ini berisi data yang diminta atau data hasil dari operasi (misal: objek user yang baru dibuat, daftar postingan).
 * error: Sebuah string yang berisi pesan error yang lebih spesifik jika terjadi kesalahan. Jika operasi berhasil, nilai ini akan menjadi null.
 
-* **Contoh Penggunaan Status Code HTTP:**
+**Contoh Penggunaan Status Code HTTP:**
 * 200 OK: Menunjukkan bahwa request berhasil diproses dan respons dikembalikan (digunakan untuk operasi GET, PUT, dan DELETE yang sukses).
 * 201 Created: Menunjukkan bahwa request berhasil dan satu atau lebih sumber daya baru telah dibuat (digunakan untuk operasi POST yang sukses).
 * 400 Bad Request: Menunjukkan bahwa request tidak valid karena masalah pada input yang diberikan (misal: validasi data gagal, body request salah format).
