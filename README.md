@@ -156,8 +156,8 @@ Semua *endpoint* diakses melalui URL dasar: `http://localhost:8080`.
 * **Screenshot Postman:**
 *<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/79c43dd0-f5ea-409f-a691-1a34230b2b6c" />*
 *<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/576be38d-5c16-45d6-b7af-f33183507b56" />*
-*<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/93645bf0-aa02-4394-824b-a187d3de0124" />*
-*<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/f16ef980-54ea-4fe9-a028-83e7753822c9" />*    
+*<img width="1269" height="731" alt="Image" src="https://github.com/user-attachments/assets/b3315dd4-2d06-4690-bc23-86f44fdeec76" />*
+*<img width="1280" height="730" alt="Image" src="https://github.com/user-attachments/assets/64f1dd83-2ca0-4f97-a17a-d0b622b39972" />* 
 
 #### `GET /users` – Ambil semua user
 * **Deskripsi:** Mengambil daftar semua pengguna terdaftar di Fesnuk.
