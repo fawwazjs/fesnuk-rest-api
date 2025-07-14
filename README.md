@@ -179,7 +179,8 @@ Semua *endpoint* diakses melalui URL dasar: `http://localhost:8080`.
     }
     ```
 * **Screenshot Postman:**
-    **
+*<img width="1268" height="734" alt="Image" src="https://github.com/user-attachments/assets/fd354e39-db0d-4b97-a2d0-9a424c298de9" />*
+*<img width="1279" height="730" alt="Image" src="https://github.com/user-attachments/assets/b45a07c6-321b-4b6d-93f0-3d7c4858df58" />*
 
 #### `GET /users/:id` – Ambil profil user
 * **Deskripsi:** Mengambil detail profil pengguna tertentu berdasarkan ID.
