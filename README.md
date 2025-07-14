@@ -4,6 +4,8 @@ Penugasan Club Webdev x Hactiv8 Assignment Membangun REST API Social Media (User
 | :------------------ |
 | 5027241001 |
 
+<img src="https://github.com/user-attachments/assets/b3d9acd0-57e0-40d1-a69c-e2b65d50617d" style="width: 200px; margin-bottom: 20px">
+
 # **Fesnuk REST API**
 Fesnuk REST API adalah simulasi sederhana dari sebuah aplikasi media sosial, dibangun menggunakan Golang dan framework Gin. Data disimpan sepenuhnya di memori (RAM), sehingga semua data akan hilang setiap kali aplikasi dimatikan. API ini menyediakan endpoint untuk mengelola pengguna (User), postingan (Post), suka (Like), komentar (Comment), dan fitur follower/following.  
 
