@@ -17,8 +17,8 @@ Fesnuk REST API adalah simulasi sederhana dari sebuah aplikasi media sosial, dib
     * [User Endpoints](#user-endpoints)
     * [Post Endpoints](#post-endpoints)
     * [Like Endpoints](#like-endpoints)
-    * [Comment Endpoints (Bonus)](#comment-endpoints)
-    * [Follower/Following Endpoints (Bonus)](#followerfollowing-endpoints)
+    * [Comment Endpoints](#comment-endpoints)
+    * [Follower/Following Endpoints](#followerfollowing-endpoints)
 6.  [Struktur Response JSON](#6-struktur-response-json)
 7.  [Screenshot Hasil Testing](#7-screenshot-hasil-testing)
 
@@ -520,7 +520,10 @@ Semua *endpoint* diakses melalui URL dasar: `http://localhost:8080`.
     }
     ```
 * **Screenshot Postman:**
-    **
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/e000313f-d897-4f4e-8418-5b9176f2f3fb" />
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/7be30969-0084-4d30-9f05-2f24689d7b68" />
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/a337a897-1565-42d4-9d81-10b7b24f4e21" />
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/45d331e3-92c3-48a2-b091-c4311c434f4b" />
 
 #### `GET /posts/:id/comments` – Lihat semua komentar pada post tertentu
 * **Deskripsi:** Mengambil semua komentar yang terkait dengan postingan tertentu.
@@ -543,11 +546,12 @@ Semua *endpoint* diakses melalui URL dasar: `http://localhost:8080`.
     }
     ```
 * **Screenshot Postman:**
-    **
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/223f8e9d-9d47-4256-998e-93898ccfe933" />
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/904dd5d4-3a13-4486-a32f-43008b0fc37b" />
 
 ---
 
-### **Follower/Following Endpoints (Bonus)**
+### **Follower/Following Endpoints**
 
 | Method | Endpoint                  | Deskripsi                                    |
 | :----- | :------------------------ | :------------------------------------------- |
