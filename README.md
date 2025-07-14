@@ -17,8 +17,8 @@ Fesnuk REST API adalah simulasi sederhana dari sebuah aplikasi media sosial, dib
     * [User Endpoints](#user-endpoints)
     * [Post Endpoints](#post-endpoints)
     * [Like Endpoints](#like-endpoints)
-    * [Comment Endpoints (Bonus)](#comment-endpoints-bonus)
-    * [Follower/Following Endpoints (Bonus)](#followerfollowing-endpoints-bonus)
+    * [Comment Endpoints (Bonus)](#comment-endpoints)
+    * [Follower/Following Endpoints (Bonus)](#followerfollowing-endpoints)
 6.  [Struktur Response JSON](#6-struktur-response-json)
 7.  [Screenshot Hasil Testing](#7-screenshot-hasil-testing)
 
