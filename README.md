@@ -1,7 +1,8 @@
 # fesnuk-rest-api
 Penugasan Club Webdev x Hactiv8 Assignment Membangun REST API Social Media (User, Post, dan Like)   
-Ahmad Wildan Fawwaz   
-5027241001
+| Ahmad Wildan Fawwaz |
+| :------------------ |
+| 5027241001 |
 
 # **Fesnuk REST API**
 Fesnuk REST API adalah simulasi sederhana dari sebuah aplikasi media sosial, dibangun menggunakan Golang dan framework Gin. Data disimpan sepenuhnya di memori (RAM), sehingga semua data akan hilang setiap kali aplikasi dimatikan. API ini menyediakan endpoint untuk mengelola pengguna (User), postingan (Post), suka (Like), komentar (Comment), dan fitur follower/following.  
