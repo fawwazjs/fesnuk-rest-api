@@ -341,6 +341,7 @@ Semua *endpoint* diakses melalui URL dasar: `http://localhost:8080`.
 * **Screenshot Postman:**
 <img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/6afb99e6-c81e-441f-ad6b-1e06a1772b1f" />
 <img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/e83fc103-7a6d-4fa1-b684-c57155f1708b" />
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/f833b9a4-888a-4ba7-a5f9-12c4e62d330a" />
 
 #### `GET /posts/:id` – Ambil detail post
 * **Deskripsi:** Mengambil detail postingan tertentu berdasarkan ID.
@@ -359,7 +360,7 @@ Semua *endpoint* diakses melalui URL dasar: `http://localhost:8080`.
     }
     ```
 * **Screenshot Postman:**
-    **
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/67b67f47-6f83-4f50-b4ce-1635bc89dc8a" />
 
 #### `GET /users/:id/posts` – Ambil semua post dari satu user
 * **Deskripsi:** Mengambil semua postingan yang dibuat oleh pengguna dengan ID tertentu.
@@ -381,7 +382,7 @@ Semua *endpoint* diakses melalui URL dasar: `http://localhost:8080`.
     }
     ```
 * **Screenshot Postman:**
-    **
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/11b2e743-a3ce-4433-9635-0bea5117536c" />
 
 #### `DELETE /posts/:id` – Hapus post
 * **Deskripsi:** Menghapus postingan tertentu. Tindakan ini juga akan menghapus semua like dan komentar yang terkait dengan post tersebut.
@@ -395,7 +396,9 @@ Semua *endpoint* diakses melalui URL dasar: `http://localhost:8080`.
     }
     ```
 * **Screenshot Postman:**
-    **
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/d0f4c687-fb39-4a5d-85a7-a953531f6d54" />
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/c5192121-02a6-4cd0-a1eb-8d3e5fc8657f" />
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/c48f5313-721d-423f-adae-5a0a79246acc" />
 
 ---
 
@@ -437,7 +440,8 @@ Semua *endpoint* diakses melalui URL dasar: `http://localhost:8080`.
     }
     ```
 * **Screenshot Postman:**
-    **
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/f77d1fe0-a292-4cb4-982d-e943f47af172" />
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/a54f3978-d0ae-4439-83ba-5da39edbb620" />
 
 #### `GET /posts/:id/likes` – Lihat siapa saja yang like post tertentu
 * **Deskripsi:** Mengambil daftar semua like yang diterima oleh postingan tertentu.
@@ -458,7 +462,7 @@ Semua *endpoint* diakses melalui URL dasar: `http://localhost:8080`.
     }
     ```
 * **Screenshot Postman:**
-    **
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/9eb95407-3c48-436a-85b7-8774018fe2f1" />
 
 #### `GET /users/:id/likes` – Lihat semua like dari seorang user
 * **Deskripsi:** Mengambil daftar semua like yang dibuat oleh user tertentu.
@@ -479,11 +483,12 @@ Semua *endpoint* diakses melalui URL dasar: `http://localhost:8080`.
     }
     ```
 * **Screenshot Postman:**
-    **
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/2ffc00b5-1cd6-43e3-8e34-873be57a158b" />
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/8d70ede2-b04c-4f86-9577-57b70b76bf54" />
 
 ---
 
-### **Comment Endpoints (Bonus)**
+### **Comment Endpoints**
 
 | Method | Endpoint              | Deskripsi                                    |
 | :----- | :-------------------- | :------------------------------------------- |
