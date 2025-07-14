@@ -259,8 +259,6 @@ Semua *endpoint* diakses melalui URL dasar: `http://localhost:8080`.
 <img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/b6f348fc-35a3-4bd0-ae77-193da9bf4621" />
 <img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/90c7aa70-2906-4956-9cd0-58a112dffeff" />
 
----
-
 ### **Post Endpoints**
 
 | Method | Endpoint              | Deskripsi                                    |
