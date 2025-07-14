@@ -157,6 +157,8 @@ Semua *endpoint* diakses melalui URL dasar: `http://localhost:8080`.
 *<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/79c43dd0-f5ea-409f-a691-1a34230b2b6c" />*
 *<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/576be38d-5c16-45d6-b7af-f33183507b56" />*
 *<img width="1269" height="731" alt="Image" src="https://github.com/user-attachments/assets/b3315dd4-2d06-4690-bc23-86f44fdeec76" />*
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/0b9721aa-fa57-4f27-8983-de4022ed7dfa" />
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/07685237-655c-41f3-a3b1-a4e9e10e9043" />
 *<img width="1280" height="730" alt="Image" src="https://github.com/user-attachments/assets/64f1dd83-2ca0-4f97-a17a-d0b622b39972" />* 
 
 #### `GET /users` – Ambil semua user
@@ -179,8 +181,8 @@ Semua *endpoint* diakses melalui URL dasar: `http://localhost:8080`.
     }
     ```
 * **Screenshot Postman:**
-*<img width="1268" height="734" alt="Image" src="https://github.com/user-attachments/assets/fd354e39-db0d-4b97-a2d0-9a424c298de9" />*
-*<img width="1279" height="730" alt="Image" src="https://github.com/user-attachments/assets/b45a07c6-321b-4b6d-93f0-3d7c4858df58" />*
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/08bdb0d7-2936-4e9d-9ea5-213993c84592" />
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/ba9c915a-dbbc-46b9-a4fa-2e37998740f3" />
 
 #### `GET /users/:id` – Ambil profil user
 * **Deskripsi:** Mengambil detail profil pengguna tertentu berdasarkan ID.
@@ -207,7 +209,8 @@ Semua *endpoint* diakses melalui URL dasar: `http://localhost:8080`.
     }
     ```
 * **Screenshot Postman:**
-    **
+<img width="1284" height="725" alt="Image" src="https://github.com/user-attachments/assets/ed438a2f-478b-4e37-8152-117490b9e24d" />
+<img width="1274" height="734" alt="Image" src="https://github.com/user-attachments/assets/bb17b8ce-5b5b-430f-8979-da9d8d85fdba" />
 
 #### `PUT /users/:id` – Update profil user
 * **Deskripsi:** Memperbarui informasi profil pengguna yang sudah ada.
@@ -234,7 +237,8 @@ Semua *endpoint* diakses melalui URL dasar: `http://localhost:8080`.
     }
     ```
 * **Screenshot Postman:**
-    **
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/2c8c125d-f8bb-48bb-bd70-13e084060f78" />
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/fbaca9ef-31d5-47c1-bbd3-76e3284c8c70" />
 
 #### `DELETE /users/:id` – Hapus user
 * **Deskripsi:** Menghapus akun pengguna dari Fesnuk. Tindakan ini juga akan menghapus semua post, like, comment, dan relasi follow yang terkait dengan user ini.
@@ -248,7 +252,9 @@ Semua *endpoint* diakses melalui URL dasar: `http://localhost:8080`.
     }
     ```
 * **Screenshot Postman:**
-    **
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/f11d806a-b255-464e-96fe-48b4ede24ba0" />
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/b6f348fc-35a3-4bd0-ae77-193da9bf4621" />
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/90c7aa70-2906-4956-9cd0-58a112dffeff" />
 
 ---
 
