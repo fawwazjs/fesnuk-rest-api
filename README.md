@@ -601,7 +601,11 @@ Semua *endpoint* diakses melalui URL dasar: `http://localhost:8080`.
     }
     ```
 * **Screenshot Postman:**
-    **
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/928e9727-08be-441f-bfd9-4b60f310f0a5" />
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/c2daa7d7-7ab6-4c36-9e58-183237720932" />
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/f5fcb6dd-45ab-4283-8397-f8d94a67454d" />
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/9991c63a-b5e5-420f-8ff7-520627d2c802" />
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/1077b15b-c1ce-4cf8-8abf-64d252074bed" />
 
 #### `DELETE /users/:id/unfollow` – User berhenti follow user lain
 * **Deskripsi:** Mencatat bahwa seorang `follower_id` berhenti mengikuti `user_id` yang ditentukan di URL.
@@ -621,7 +625,8 @@ Semua *endpoint* diakses melalui URL dasar: `http://localhost:8080`.
     }
     ```
 * **Screenshot Postman:**
-    **
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/c5ad65db-ee75-43a6-b8ea-20cb79e22eea" />
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/b26bb461-b309-47ea-ad20-288157d8d9a6" />
 
 #### `GET /users/:id/followers` – Lihat daftar follower dari user tertentu
 * **Deskripsi:** Mengambil daftar pengguna yang mengikuti user dengan ID tertentu.
@@ -643,7 +648,7 @@ Semua *endpoint* diakses melalui URL dasar: `http://localhost:8080`.
     }
     ```
 * **Screenshot Postman:**
-    **
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/0135edb3-bbb3-40a9-8e4a-63d470093352" />
 
 #### `GET /users/:id/following` – Lihat daftar user yang diikuti oleh user tertentu
 * **Deskripsi:** Mengambil daftar pengguna yang diikuti oleh user dengan ID tertentu.
@@ -665,8 +670,7 @@ Semua *endpoint* diakses melalui URL dasar: `http://localhost:8080`.
     }
     ```
 * **Screenshot Postman:**
-    **
-
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/9c1a5b6a-7a00-4f9e-bad1-7ae93860c975" />
 ---
 
 ## **6. Struktur Response JSON**
@@ -693,4 +697,75 @@ Semua respons dari Fesnuk API akan mengikuti format JSON yang konsisten untuk me
 * 500 Internal Server Error: Menunjukkan bahwa terjadi kesalahan tak terduga di sisi server yang mencegah request diproses.
 
 ## **7. Screenshot Hasil Testing**
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/79c43dd0-f5ea-409f-a691-1a34230b2b6c" />
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/576be38d-5c16-45d6-b7af-f33183507b56" />
+<img width="1269" height="731" alt="Image" src="https://github.com/user-attachments/assets/b3315dd4-2d06-4690-bc23-86f44fdeec76" />
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/0b9721aa-fa57-4f27-8983-de4022ed7dfa" />
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/07685237-655c-41f3-a3b1-a4e9e10e9043" />
+<img width="1280" height="730" alt="Image" src="https://github.com/user-attachments/assets/64f1dd83-2ca0-4f97-a17a-d0b622b39972" />
 
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/08bdb0d7-2936-4e9d-9ea5-213993c84592" />
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/ba9c915a-dbbc-46b9-a4fa-2e37998740f3" />
+
+<img width="1284" height="725" alt="Image" src="https://github.com/user-attachments/assets/ed438a2f-478b-4e37-8152-117490b9e24d" />
+<img width="1274" height="734" alt="Image" src="https://github.com/user-attachments/assets/bb17b8ce-5b5b-430f-8979-da9d8d85fdba" />
+
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/2c8c125d-f8bb-48bb-bd70-13e084060f78" />
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/fbaca9ef-31d5-47c1-bbd3-76e3284c8c70" />
+
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/f11d806a-b255-464e-96fe-48b4ede24ba0" />
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/b6f348fc-35a3-4bd0-ae77-193da9bf4621" />
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/90c7aa70-2906-4956-9cd0-58a112dffeff" />
+
+
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/a093b614-0d08-4b4d-9302-cd7a1a660379" />
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/95abddc7-5c62-4ada-995d-58f2e52a5b06" />
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/e56a54d2-d112-4df9-b62e-01ae41658949" />
+
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/6afb99e6-c81e-441f-ad6b-1e06a1772b1f" />
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/e83fc103-7a6d-4fa1-b684-c57155f1708b" />
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/f833b9a4-888a-4ba7-a5f9-12c4e62d330a" />
+
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/67b67f47-6f83-4f50-b4ce-1635bc89dc8a" />
+
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/11b2e743-a3ce-4433-9635-0bea5117536c" />
+
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/d0f4c687-fb39-4a5d-85a7-a953531f6d54" />
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/c5192121-02a6-4cd0-a1eb-8d3e5fc8657f" />
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/c48f5313-721d-423f-adae-5a0a79246acc" />
+
+
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/f77d1fe0-a292-4cb4-982d-e943f47af172" />
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/a54f3978-d0ae-4439-83ba-5da39edbb620" />
+
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/9eb95407-3c48-436a-85b7-8774018fe2f1" />
+
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/2ffc00b5-1cd6-43e3-8e34-873be57a158b" />
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/8d70ede2-b04c-4f86-9577-57b70b76bf54" />
+
+
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/e000313f-d897-4f4e-8418-5b9176f2f3fb" />
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/7be30969-0084-4d30-9f05-2f24689d7b68" />
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/a337a897-1565-42d4-9d81-10b7b24f4e21" />
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/45d331e3-92c3-48a2-b091-c4311c434f4b" />
+
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/223f8e9d-9d47-4256-998e-93898ccfe933" />
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/904dd5d4-3a13-4486-a32f-43008b0fc37b" />
+
+
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/928e9727-08be-441f-bfd9-4b60f310f0a5" />
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/c2daa7d7-7ab6-4c36-9e58-183237720932" />
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/f5fcb6dd-45ab-4283-8397-f8d94a67454d" />
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/9991c63a-b5e5-420f-8ff7-520627d2c802" />
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/1077b15b-c1ce-4cf8-8abf-64d252074bed" />
+
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/c5ad65db-ee75-43a6-b8ea-20cb79e22eea" />
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/b26bb461-b309-47ea-ad20-288157d8d9a6" />
+
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/0135edb3-bbb3-40a9-8e4a-63d470093352" />
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/9c1a5b6a-7a00-4f9e-bad1-7ae93860c975" />
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/3f881226-a1bf-40f4-8571-4c38cd495a56" />
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/a7fe5467-89ce-4dfa-bf90-9c47434cf5b9" />
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/353960bb-865c-4eec-97c5-4d8d2e3d02be" />
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/c44d26d5-4138-4097-a367-006f3604d079" />
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/25814e2c-4486-446d-b76b-80b59803ef20" />
