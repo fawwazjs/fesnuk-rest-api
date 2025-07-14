@@ -154,12 +154,12 @@ Semua *endpoint* diakses melalui URL dasar: `http://localhost:8080`.
     }
     ```
 * **Screenshot Postman:**
-*<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/79c43dd0-f5ea-409f-a691-1a34230b2b6c" />*
-*<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/576be38d-5c16-45d6-b7af-f33183507b56" />*
-*<img width="1269" height="731" alt="Image" src="https://github.com/user-attachments/assets/b3315dd4-2d06-4690-bc23-86f44fdeec76" />*
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/79c43dd0-f5ea-409f-a691-1a34230b2b6c" />
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/576be38d-5c16-45d6-b7af-f33183507b56" />
+<img width="1269" height="731" alt="Image" src="https://github.com/user-attachments/assets/b3315dd4-2d06-4690-bc23-86f44fdeec76" />
 <img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/0b9721aa-fa57-4f27-8983-de4022ed7dfa" />
 <img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/07685237-655c-41f3-a3b1-a4e9e10e9043" />
-*<img width="1280" height="730" alt="Image" src="https://github.com/user-attachments/assets/64f1dd83-2ca0-4f97-a17a-d0b622b39972" />* 
+<img width="1280" height="730" alt="Image" src="https://github.com/user-attachments/assets/64f1dd83-2ca0-4f97-a17a-d0b622b39972" />
 
 #### `GET /users` – Ambil semua user
 * **Deskripsi:** Mengambil daftar semua pengguna terdaftar di Fesnuk.
@@ -299,7 +299,9 @@ Semua *endpoint* diakses melalui URL dasar: `http://localhost:8080`.
     }
     ```
 * **Screenshot Postman:**
-    **
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/a093b614-0d08-4b4d-9302-cd7a1a660379" />
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/95abddc7-5c62-4ada-995d-58f2e52a5b06" />
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/e56a54d2-d112-4df9-b62e-01ae41658949" />
 
 #### `GET /posts` – Ambil semua post (mendukung filtering keyword)
 * **Deskripsi:** Mengambil daftar semua postingan. Dapat difilter berdasarkan kata kunci pada konten post menggunakan *query parameter* `keyword`.
@@ -337,7 +339,8 @@ Semua *endpoint* diakses melalui URL dasar: `http://localhost:8080`.
     }
     ```
 * **Screenshot Postman:**
-    **
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/6afb99e6-c81e-441f-ad6b-1e06a1772b1f" />
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/e83fc103-7a6d-4fa1-b684-c57155f1708b" />
 
 #### `GET /posts/:id` – Ambil detail post
 * **Deskripsi:** Mengambil detail postingan tertentu berdasarkan ID.
