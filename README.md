@@ -61,12 +61,12 @@ fesnuk-api/
 │   ├── comment.go        # Struktur Comment
 │   └── follower.go       # Struktur Follower
 └── handlers/             # Logika(handler) untuk setiap endpoint API
-├── common.go         # Fungsi helper untuk respons JSON yang konsisten
-├── user_handler.go   # Handler untuk endpoint User
-├── post_handler.go   # Handler untuk endpoint Post
-├── like_handler.go   # Handler untuk endpoint Like
-├── comment_handler.go # Handler untuk endpoint Comment
-└── follower_handler.go # Handler untuk endpoint Follower/Following
+    ├── common.go         # Fungsi helper untuk respons JSON yang konsisten
+    ├── user_handler.go   # Handler untuk endpoint User
+    ├── post_handler.go   # Handler untuk endpoint Post
+    ├── like_handler.go   # Handler untuk endpoint Like
+    ├── comment_handler.go # Handler untuk endpoint Comment
+    └── follower_handler.go # Handler untuk endpoint Follower/Following
 ```
 
 ---
